@@ -1,0 +1,4061 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515225122,
+        "longitudeE7" : -1428166,
+        "placeId" : "ChIJmaVHONYadkgRenRoEUraCx8",
+        "address" : "Carburton St\nFitzrovia, London\nW1W 5EE\nUK",
+        "name" : "Holiday Inn London - Regent's Park",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 36.16528
+      },
+      "duration" : {
+        "startTimestampMs" : "1584290306999",
+        "endTimestampMs" : "1584313026001"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515220750,
+      "centerLngE7" : -1415600,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515218239,
+        "longitudeE7" : -1425585,
+        "placeId" : "ChIJM8MIQNYadkgRNC7hcekjix0",
+        "locationConfidence" : 16.520475
+      }, {
+        "latitudeE7" : 515220377,
+        "longitudeE7" : -1404509,
+        "placeId" : "ChIJVX9Y2ikbdkgRgran6KodNLA",
+        "locationConfidence" : 14.513055
+      }, {
+        "latitudeE7" : 515216893,
+        "longitudeE7" : -1409792,
+        "placeId" : "ChIJJyy12CkbdkgR8L6H1TnqzjQ",
+        "locationConfidence" : 5.2297196
+      }, {
+        "latitudeE7" : 515212453,
+        "longitudeE7" : -1429290,
+        "placeId" : "ChIJRcNUadYadkgRpJDEoj7HIPI",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 4.488992
+      }, {
+        "latitudeE7" : 515227774,
+        "longitudeE7" : -1413199,
+        "placeId" : "ChIJrXOlLNYadkgRiohqRNt8BSY",
+        "locationConfidence" : 2.4777002
+      }, {
+        "latitudeE7" : 515217640,
+        "longitudeE7" : -1409600,
+        "placeId" : "ChIJH0Nb3ykbdkgRJX1YP2MlOFI",
+        "locationConfidence" : 2.4543862
+      }, {
+        "latitudeE7" : 515218833,
+        "longitudeE7" : -1402592,
+        "placeId" : "ChIJj2azxCkbdkgRzIsyMOwscHU",
+        "locationConfidence" : 1.7083063
+      }, {
+        "latitudeE7" : 515207474,
+        "longitudeE7" : -1428135,
+        "placeId" : "ChIJR3h3R40bdkgRQ6jtO76cMnM",
+        "locationConfidence" : 1.5809602
+      }, {
+        "latitudeE7" : 515218959,
+        "longitudeE7" : -1436757,
+        "placeId" : "ChIJ-bg_WdYadkgRD-AagbO6NpE",
+        "locationConfidence" : 1.3138648
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515228871,
+        "longitudeE7" : -1418790
+      },
+      "endLocation" : {
+        "latitudeE7" : 515420794,
+        "longitudeE7" : -2515650
+      },
+      "duration" : {
+        "startTimestampMs" : "1584313026001",
+        "endTimestampMs" : "1584314696002"
+      },
+      "distance" : 8355,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 78.86701822280884
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 10.427792370319366
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.306962549686432
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.1049175187945366
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.3248801231384277
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.8859185501933098
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.7606897037476301
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.5329197272658348
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.261446600779891
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.22454713471233845
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.19653970375657082
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.06631646538153291
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.03697647189255804
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.002134844908141531
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.359029718325473E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515229606,
+          "lngE7" : -1417303
+        }, {
+          "latE7" : 515229988,
+          "lngE7" : -1523510
+        }, {
+          "latE7" : 515221481,
+          "lngE7" : -1570917
+        }, {
+          "latE7" : 515220909,
+          "lngE7" : -1573922
+        }, {
+          "latE7" : 515210952,
+          "lngE7" : -1631208
+        }, {
+          "latE7" : 515198554,
+          "lngE7" : -1717748
+        }, {
+          "latE7" : 515198822,
+          "lngE7" : -1748730
+        }, {
+          "latE7" : 515204200,
+          "lngE7" : -1805105
+        }, {
+          "latE7" : 515198631,
+          "lngE7" : -1901551
+        }, {
+          "latE7" : 515223312,
+          "lngE7" : -1937198
+        }, {
+          "latE7" : 515232238,
+          "lngE7" : -1961797
+        }, {
+          "latE7" : 515301704,
+          "lngE7" : -2264795
+        }, {
+          "latE7" : 515307044,
+          "lngE7" : -2292276
+        }, {
+          "latE7" : 515315856,
+          "lngE7" : -2318954
+        }, {
+          "latE7" : 515420799,
+          "lngE7" : -2515547
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515221214,
+          "lngE7" : -1570792,
+          "timestampMs" : "1584313269001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515210609,
+          "lngE7" : -1631056,
+          "timestampMs" : "1584313390000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515197639,
+          "lngE7" : -1748771,
+          "timestampMs" : "1584313543000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515200462,
+          "lngE7" : -1899663,
+          "timestampMs" : "1584313722000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515231819,
+          "lngE7" : -1961431,
+          "timestampMs" : "1584313833001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515305824,
+          "lngE7" : -2293088,
+          "timestampMs" : "1584314265397",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515425009,
+        "longitudeE7" : -2518378,
+        "placeId" : "ChIJDRrWv7sRdkgRfPXcIahRxJY",
+        "address" : "38 Glynfield Rd\nChurch End & Roundwood, London\nNW10 9LE\nUK",
+        "name" : "38 Glynfield Rd",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 42.153145
+      },
+      "duration" : {
+        "startTimestampMs" : "1584314696002",
+        "endTimestampMs" : "1584351105286"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515425650,
+      "centerLngE7" : -2518600,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515424925,
+        "longitudeE7" : -2518136,
+        "placeId" : "ChIJqUPylLsRdkgRcFp9a1fs0s8",
+        "locationConfidence" : 19.344856
+      }, {
+        "latitudeE7" : 515426907,
+        "longitudeE7" : -2519884,
+        "placeId" : "ChIJv3CslrsRdkgRyY_2kfTKMiQ",
+        "locationConfidence" : 17.968441
+      }, {
+        "latitudeE7" : 515424317,
+        "longitudeE7" : -2517862,
+        "placeId" : "ChIJqUPylLsRdkgRxgNUJH8d-3o",
+        "locationConfidence" : 7.64135
+      }, {
+        "latitudeE7" : 515427670,
+        "longitudeE7" : -2542090,
+        "placeId" : "ChIJCZ3MbrwRdkgRxssEatzaIPQ",
+        "locationConfidence" : 3.582954
+      }, {
+        "latitudeE7" : 515418691,
+        "longitudeE7" : -2546167,
+        "placeId" : "ChIJj3CJPbwRdkgRgBvzj9FwuHs",
+        "locationConfidence" : 1.880715
+      }, {
+        "latitudeE7" : 515435873,
+        "longitudeE7" : -2512045,
+        "placeId" : "ChIJyWdfBbsRdkgRUkKQNYn3hKo",
+        "locationConfidence" : 1.7619728
+      }, {
+        "latitudeE7" : 515422372,
+        "longitudeE7" : -2545058,
+        "placeId" : "ChIJzyWEbLwRdkgRxVn-CB40Np4",
+        "locationConfidence" : 1.4188802
+      }, {
+        "latitudeE7" : 515411950,
+        "longitudeE7" : -2542343,
+        "placeId" : "ChIJ4yRkHLwRdkgRnY8RDCQV-Zs",
+        "locationConfidence" : 1.1711301
+      }, {
+        "latitudeE7" : 515429150,
+        "longitudeE7" : -2544060,
+        "placeId" : "ChIJ3xdgaLwRdkgRcelcgdapUuU",
+        "locationConfidence" : 0.96080524
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515421284,
+        "longitudeE7" : -2515067
+      },
+      "endLocation" : {
+        "latitudeE7" : 515034645,
+        "longitudeE7" : -2261461
+      },
+      "duration" : {
+        "startTimestampMs" : "1584351105286",
+        "endTimestampMs" : "1584352381001"
+      },
+      "distance" : 4827,
+      "activityType" : "CYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 76.63342952728271
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.158344238996506
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 5.308946594595909
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.591574519872665
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.082358628511429
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.330848503857851
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.3576241433620453
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.28387075290083885
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.14879136579111218
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.04664142616093159
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03270776360295713
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.020244548795744777
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.002323734588571824
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0018237875337945297
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 4.825471478397958E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515421218,
+          "lngE7" : -2515665
+        }, {
+          "latE7" : 515275917,
+          "lngE7" : -2354391
+        }, {
+          "latE7" : 515106620,
+          "lngE7" : -2245780
+        }, {
+          "latE7" : 515049629,
+          "lngE7" : -2235368
+        }, {
+          "latE7" : 515034790,
+          "lngE7" : -2265861
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515106888,
+          "lngE7" : -2245642,
+          "timestampMs" : "1584351987000",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515039596,
+        "longitudeE7" : -2262041,
+        "placeId" : "ChIJYQe80s8PdkgRMMsSkwk1wvA",
+        "address" : "Shepherd's Bush, London\nW12 8LH\nUK",
+        "name" : "Open Cell",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 93.29454
+      },
+      "duration" : {
+        "startTimestampMs" : "1584352381001",
+        "endTimestampMs" : "1584389336428"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515037800,
+      "centerLngE7" : -2262767,
+      "visitConfidence" : 97,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515050776,
+        "longitudeE7" : -2268011,
+        "placeId" : "ChIJBQaBRdIPdkgRAZUBTPq71bc",
+        "locationConfidence" : 1.6220492
+      }, {
+        "latitudeE7" : 515075725,
+        "longitudeE7" : -2212054,
+        "placeId" : "ChIJTZ98odkPdkgRDGbnRTSQUuI",
+        "locationConfidence" : 1.5586033
+      }, {
+        "latitudeE7" : 515040567,
+        "longitudeE7" : -2246746,
+        "placeId" : "ChIJ-Zb38M8PdkgR23SKYSnD-Q0",
+        "locationConfidence" : 0.8399674
+      }, {
+        "latitudeE7" : 515034966,
+        "longitudeE7" : -2242238,
+        "placeId" : "ChIJ5ZgE5c8PdkgRQ2ZW98aI1Qc",
+        "locationConfidence" : 0.6204956
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515024331,
+        "longitudeE7" : -2270114
+      },
+      "endLocation" : {
+        "latitudeE7" : 515416904,
+        "longitudeE7" : -2515000
+      },
+      "duration" : {
+        "startTimestampMs" : "1584389336428",
+        "endTimestampMs" : "1584390845001"
+      },
+      "distance" : 4891,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 93.28312277793884
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.0911015570163727
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.6464807093143463
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.9702733717858791
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.5323574412614107
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.5156631581485271
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.33321629744023085
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.2613628515973687
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.13555452460423112
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.1071031205356121
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.10614037746563554
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.009621609933674335
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.007429241668432951
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.385017635082477E-4
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 2.3599143332830863E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515024414,
+          "lngE7" : -2269062
+        }, {
+          "latE7" : 515274772,
+          "lngE7" : -2354959
+        }, {
+          "latE7" : 515416908,
+          "lngE7" : -2514637
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515418906,
+        "longitudeE7" : -2515048,
+        "placeId" : "ChIJR8lEwrsRdkgRbgg92GHzH4Y",
+        "address" : "14 Glynfield Rd\nChurch End & Roundwood, London\nNW10 9JX\nUK",
+        "name" : "14 Glynfield Rd",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 42.446823
+      },
+      "duration" : {
+        "startTimestampMs" : "1584390845001",
+        "endTimestampMs" : "1584433392391"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515419200,
+      "centerLngE7" : -2515200,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515420090,
+        "longitudeE7" : -2515283,
+        "placeId" : "ChIJ9W4gwrsRdkgRRzAgZxnFHQg",
+        "locationConfidence" : 28.63031
+      }, {
+        "latitudeE7" : 515418855,
+        "longitudeE7" : -2513963,
+        "placeId" : "ChIJBVm5w7sRdkgRI0zJol6FSlo",
+        "locationConfidence" : 19.047846
+      }, {
+        "latitudeE7" : 515427670,
+        "longitudeE7" : -2542090,
+        "placeId" : "ChIJCZ3MbrwRdkgRxssEatzaIPQ",
+        "locationConfidence" : 2.00665
+      }, {
+        "latitudeE7" : 515392706,
+        "longitudeE7" : -2513800,
+        "placeId" : "ChIJPSTTELkRdkgRvwQbU6B6Jp0",
+        "locationConfidence" : 1.7832866
+      }, {
+        "latitudeE7" : 515411950,
+        "longitudeE7" : -2542343,
+        "placeId" : "ChIJ4yRkHLwRdkgRnY8RDCQV-Zs",
+        "locationConfidence" : 1.6391011
+      }, {
+        "latitudeE7" : 515418691,
+        "longitudeE7" : -2546167,
+        "placeId" : "ChIJj3CJPbwRdkgRgBvzj9FwuHs",
+        "locationConfidence" : 1.1107872
+      }, {
+        "latitudeE7" : 515417421,
+        "longitudeE7" : -2548175,
+        "placeId" : "ChIJxfU0HrwRdkgRYHnZpng8-IE",
+        "locationConfidence" : 0.9149075
+      }, {
+        "latitudeE7" : 515422372,
+        "longitudeE7" : -2545058,
+        "placeId" : "ChIJzyWEbLwRdkgRxVn-CB40Np4",
+        "locationConfidence" : 0.86586684
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515421509,
+        "longitudeE7" : -2515486
+      },
+      "endLocation" : {
+        "latitudeE7" : 515043057,
+        "longitudeE7" : -2266499
+      },
+      "duration" : {
+        "startTimestampMs" : "1584433392391",
+        "endTimestampMs" : "1584434480000"
+      },
+      "distance" : 2573,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 43.338096141815186
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.05655539035797
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 4.378889501094818
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.876979276537895
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.6241553723812103
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 3.047647140920162
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.151118591427803
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.8848444558680058
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.2655747113749385
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.21550427190959454
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.06049281219020486
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.03637575719039887
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.03518247976899147
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.026400931528769433
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0021818967070430517
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515388336,
+          "lngE7" : -2499745
+        }, {
+          "latE7" : 515275077,
+          "lngE7" : -2354221
+        }, {
+          "latE7" : 515042953,
+          "lngE7" : -2264773
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515020687,
+        "longitudeE7" : -2274007,
+        "placeId" : "ChIJkYdsXM4PdkgRq9iUccv7K0M",
+        "address" : "75 Goldhawk Rd\nHammersmith, London\nW12 8EH\nUK",
+        "name" : "Swallow Coffee Shop",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 48.665592
+      },
+      "duration" : {
+        "startTimestampMs" : "1584434480000",
+        "endTimestampMs" : "1584439813230"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515021367,
+      "centerLngE7" : -2275951,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515039596,
+        "longitudeE7" : -2262041,
+        "placeId" : "ChIJYQe80s8PdkgRMMsSkwk1wvA",
+        "locationConfidence" : 34.362724
+      }, {
+        "latitudeE7" : 515018056,
+        "longitudeE7" : -2264944,
+        "placeId" : "ChIJqW06Uc4PdkgRkanRyXG1s5k",
+        "locationConfidence" : 4.264535
+      }, {
+        "latitudeE7" : 515020584,
+        "longitudeE7" : -2277004,
+        "placeId" : "ChIJBzlCZ84PdkgRDlX9aw4qgps",
+        "locationConfidence" : 1.8147599
+      }, {
+        "latitudeE7" : 515020274,
+        "longitudeE7" : -2276213,
+        "placeId" : "ChIJRdRgXM4PdkgRkY0io-QnGH8",
+        "locationConfidence" : 1.3700031
+      }, {
+        "latitudeE7" : 515024744,
+        "longitudeE7" : -2270874,
+        "placeId" : "ChIJRSwHRc4PdkgR91Zeo6oadh4",
+        "locationConfidence" : 1.2751527
+      }, {
+        "latitudeE7" : 515018771,
+        "longitudeE7" : -2282938,
+        "placeId" : "ChIJ2eoNY84PdkgRht-pWXfr4yM",
+        "locationConfidence" : 0.99771416
+      }, {
+        "latitudeE7" : 515050776,
+        "longitudeE7" : -2268011,
+        "placeId" : "ChIJBQaBRdIPdkgRAZUBTPq71bc",
+        "locationConfidence" : 0.8238069
+      }, {
+        "latitudeE7" : 515022858,
+        "longitudeE7" : -2278372,
+        "placeId" : "ChIJr4LaZ84PdkgRoqI-5_AmGlk",
+        "locationConfidence" : 0.6781065
+      }, {
+        "latitudeE7" : 515022540,
+        "longitudeE7" : -2280616,
+        "placeId" : "ChIJ5wENZs4PdkgRmbPY9X_EWlM",
+        "locationConfidence" : 0.62194645
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515039596,
+        "longitudeE7" : -2262041,
+        "placeId" : "ChIJYQe80s8PdkgRMMsSkwk1wvA",
+        "address" : "Shepherd's Bush, London\nW12 8LH\nUK",
+        "name" : "Open Cell",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 47.687145
+      },
+      "duration" : {
+        "startTimestampMs" : "1584439813230",
+        "endTimestampMs" : "1584473406074"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515030987,
+      "centerLngE7" : -2260374,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515040567,
+        "longitudeE7" : -2246746,
+        "placeId" : "ChIJ-Zb38M8PdkgR23SKYSnD-Q0",
+        "locationConfidence" : 28.276634
+      }, {
+        "latitudeE7" : 515045765,
+        "longitudeE7" : -2248809,
+        "placeId" : "ChIJfQeNIdAPdkgRio8vjJP2RZQ",
+        "locationConfidence" : 11.282183
+      }, {
+        "latitudeE7" : 515075725,
+        "longitudeE7" : -2212054,
+        "placeId" : "ChIJTZ98odkPdkgRDGbnRTSQUuI",
+        "locationConfidence" : 5.2139497
+      }, {
+        "latitudeE7" : 515034966,
+        "longitudeE7" : -2242238,
+        "placeId" : "ChIJ5ZgE5c8PdkgRQ2ZW98aI1Qc",
+        "locationConfidence" : 2.31887
+      }, {
+        "latitudeE7" : 515032720,
+        "longitudeE7" : -2225826,
+        "placeId" : "ChIJEaVdW8UPdkgRQBtKG8OqRWI",
+        "locationConfidence" : 1.5352783
+      }, {
+        "latitudeE7" : 515052778,
+        "longitudeE7" : -2244444,
+        "placeId" : "ChIJ6fK9FtAPdkgRdZW6DkHWrnU",
+        "locationConfidence" : 0.6329559
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515044579,
+        "longitudeE7" : -2244059
+      },
+      "endLocation" : {
+        "latitudeE7" : 515364041,
+        "longitudeE7" : -2457207
+      },
+      "duration" : {
+        "startTimestampMs" : "1584473406074",
+        "endTimestampMs" : "1584474272001"
+      },
+      "distance" : 3959,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 90.59208035469055
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.373444825410843
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.3757824674248695
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.130264788866043
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.40281349793076515
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.23199559655040503
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.23113731294870377
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.21662027575075626
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.20303749479353428
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.1749834744259715
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.04598332161549479
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.01596888614585623
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.005344609962776303
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 3.288804919066024E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.1576242943410762E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515044593,
+          "lngE7" : -2244106
+        }, {
+          "latE7" : 515274772,
+          "lngE7" : -2354959
+        }, {
+          "latE7" : 515363998,
+          "lngE7" : -2457188
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515368624,
+        "longitudeE7" : -2466969,
+        "placeId" : "ChIJwROL8bcRdkgRbb7k9yoErrc",
+        "address" : "Unit 2, Harlesden Plaza\nTavistock Rd\nHarlesden, London\nNW10 4NG\nUK",
+        "name" : "Tesco Metro",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 89.45161
+      },
+      "duration" : {
+        "startTimestampMs" : "1584474272001",
+        "endTimestampMs" : "1584474914000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515367467,
+      "centerLngE7" : -2463800,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515360157,
+        "longitudeE7" : -2464162,
+        "placeId" : "ChIJXYpY-7cRdkgRyYCxXBU2fY8",
+        "locationConfidence" : 2.4678361
+      }, {
+        "latitudeE7" : 515367399,
+        "longitudeE7" : -2471986,
+        "placeId" : "ChIJ1-mXHbgRdkgRmGD0jLk-HvY",
+        "locationConfidence" : 1.9043757
+      }, {
+        "latitudeE7" : 515367086,
+        "longitudeE7" : -2470842,
+        "placeId" : "ChIJoa75PLgRdkgRx8sPQ5LIbio",
+        "locationConfidence" : 1.5577244
+      }, {
+        "latitudeE7" : 515370765,
+        "longitudeE7" : -2475593,
+        "placeId" : "ChIJ0emXHbgRdkgRxJvNLo2XBLc",
+        "locationConfidence" : 1.270813
+      }, {
+        "latitudeE7" : 515368512,
+        "longitudeE7" : -2481955,
+        "placeId" : "ChIJb6iVFrgRdkgRK2DHhk0TAgc",
+        "locationConfidence" : 1.105479
+      }, {
+        "latitudeE7" : 515362990,
+        "longitudeE7" : -2476709,
+        "placeId" : "ChIJ0-EdcAkRdkgRpgn-lnUvGhA",
+        "locationConfidence" : 0.64468247
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515369182,
+        "longitudeE7" : -2470520
+      },
+      "endLocation" : {
+        "latitudeE7" : 515430580,
+        "longitudeE7" : -2520741
+      },
+      "duration" : {
+        "startTimestampMs" : "1584474914000",
+        "endTimestampMs" : "1584475331450"
+      },
+      "distance" : 768,
+      "activityType" : "CYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 61.80683970451355
+      }, {
+        "activityType" : "STILL",
+        "probability" : 30.437737703323364
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.272041469812393
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.0579341799020767
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.3472887445241213
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.325598381459713
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.2604849636554718
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.22297461982816458
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.14299910981208086
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06575877778232098
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.04348157672211528
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.009652168228058144
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006404136365745217
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 4.79506252304418E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.2124466997629497E-4
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 514987997,
+        "longitudeE7" : -1748772,
+        "placeId" : "ChIJAQoi2mcFdkgRhi5pHDcbkTE",
+        "address" : "South Kensington, London\nSW7 2BU\nUK",
+        "name" : "Imperial College London",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 66.496895
+      },
+      "duration" : {
+        "startTimestampMs" : "1584539458001",
+        "endTimestampMs" : "1584548025000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 514989300,
+      "centerLngE7" : -1742800,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 514978095,
+        "longitudeE7" : -1745235,
+        "placeId" : "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+        "locationConfidence" : 20.631731
+      }, {
+        "latitudeE7" : 514966392,
+        "longitudeE7" : -1721800,
+        "placeId" : "ChIJw1d-sUMFdkgRH2XN_U0Jt54",
+        "locationConfidence" : 3.802141
+      }, {
+        "latitudeE7" : 514990139,
+        "longitudeE7" : -1740694,
+        "placeId" : "ChIJP1Z1gkQFdkgRsyjCnpNoYsM",
+        "locationConfidence" : 3.6346805
+      }, {
+        "latitudeE7" : 514967150,
+        "longitudeE7" : -1763672,
+        "placeId" : "ChIJPy8Y5kIFdkgRxGSXw4Xjt3s",
+        "locationConfidence" : 3.1674569
+      }, {
+        "latitudeE7" : 514978304,
+        "longitudeE7" : -1698475,
+        "placeId" : "ChIJqdKJYEEFdkgRPQ4l8JtVt5E",
+        "locationConfidence" : 1.2166218
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 514997402,
+          "lngE7" : -1738116,
+          "timestampMs" : "1584539458001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 514981217,
+          "lngE7" : -1747527,
+          "timestampMs" : "1584544512598",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 514989298,
+          "lngE7" : -1777742,
+          "timestampMs" : "1584545617999",
+          "accuracyMeters" : 50
+        }, {
+          "latE7" : 514983254,
+          "lngE7" : -1775117,
+          "timestampMs" : "1584545788999",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 514981820,
+        "longitudeE7" : -1757251
+      },
+      "endLocation" : {
+        "latitudeE7" : 515026251,
+        "longitudeE7" : -2254938
+      },
+      "duration" : {
+        "startTimestampMs" : "1584548025000",
+        "endTimestampMs" : "1584549294001"
+      },
+      "distance" : 4365,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 92.85857677459717
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.3983036875724792
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.5769080966711044
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.47013135626912117
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.33246763050556183
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.12541551841422915
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07776267593726516
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.06377687677741051
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.06370252231135964
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.017412200395483524
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.012510472151916474
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0017250516975764185
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.001178337879537139
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.696737611695426E-5
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 5.5048599278961774E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 514980735,
+          "lngE7" : -1757033
+        }, {
+          "latE7" : 515014533,
+          "lngE7" : -1804787
+        }, {
+          "latE7" : 515017852,
+          "lngE7" : -1841852
+        }, {
+          "latE7" : 515070114,
+          "lngE7" : -1864544
+        }, {
+          "latE7" : 515078620,
+          "lngE7" : -2030580
+        }, {
+          "latE7" : 515041503,
+          "lngE7" : -2161079
+        }, {
+          "latE7" : 515026245,
+          "lngE7" : -2254602
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515017967,
+          "lngE7" : -1839111,
+          "timestampMs" : "1584548337001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515079613,
+          "lngE7" : -2029844,
+          "timestampMs" : "1584548829999",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515039596,
+        "longitudeE7" : -2262041,
+        "placeId" : "ChIJYQe80s8PdkgRMMsSkwk1wvA",
+        "address" : "Shepherd's Bush, London\nW12 8LH\nUK",
+        "name" : "Open Cell",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 35.98705
+      },
+      "duration" : {
+        "startTimestampMs" : "1584549294001",
+        "endTimestampMs" : "1584558537000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515049842,
+      "centerLngE7" : -2247815,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515054805,
+        "longitudeE7" : -2243986,
+        "placeId" : "ChIJU3U-E9APdkgR6IZS77voXZM",
+        "locationConfidence" : 19.962461
+      }, {
+        "latitudeE7" : 515052778,
+        "longitudeE7" : -2244444,
+        "placeId" : "ChIJ6fK9FtAPdkgRdZW6DkHWrnU",
+        "locationConfidence" : 19.483774
+      }, {
+        "latitudeE7" : 515075725,
+        "longitudeE7" : -2212054,
+        "placeId" : "ChIJTZ98odkPdkgRDGbnRTSQUuI",
+        "locationConfidence" : 7.1135826
+      }, {
+        "latitudeE7" : 515040567,
+        "longitudeE7" : -2246746,
+        "placeId" : "ChIJ-Zb38M8PdkgR23SKYSnD-Q0",
+        "locationConfidence" : 2.6950252
+      }, {
+        "latitudeE7" : 515052564,
+        "longitudeE7" : -2260150,
+        "placeId" : "ChIJxb_U788PdkgRVpZPM9lAJ9Q",
+        "locationConfidence" : 2.6292372
+      }, {
+        "latitudeE7" : 515053147,
+        "longitudeE7" : -2248170,
+        "placeId" : "ChIJA0AoONAPdkgRa6jU9zmnSCE",
+        "locationConfidence" : 2.041955
+      }, {
+        "latitudeE7" : 515051704,
+        "longitudeE7" : -2253375,
+        "placeId" : "ChIJdW12OtAPdkgRI9F7DV88Vnk",
+        "locationConfidence" : 1.5620712
+      }, {
+        "latitudeE7" : 515034966,
+        "longitudeE7" : -2242238,
+        "placeId" : "ChIJ5ZgE5c8PdkgRQ2ZW98aI1Qc",
+        "locationConfidence" : 1.0814677
+      }, {
+        "latitudeE7" : 515050776,
+        "longitudeE7" : -2268011,
+        "placeId" : "ChIJBQaBRdIPdkgRAZUBTPq71bc",
+        "locationConfidence" : 0.9065802
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515049842,
+        "longitudeE7" : -2247815
+      },
+      "endLocation" : {
+        "latitudeE7" : 515288578,
+        "longitudeE7" : -2192564
+      },
+      "duration" : {
+        "startTimestampMs" : "1584558537000",
+        "endTimestampMs" : "1584578427000"
+      },
+      "distance" : 3493,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 81.82122111320496
+      }, {
+        "activityType" : "STILL",
+        "probability" : 14.595519006252289
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.5806885436177254
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.9407557547092438
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.749987130984664
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.09016200783662498
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07428639801219106
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.047789973905310035
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.033016494126059115
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.03207614063285291
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.030174810672178864
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003095647116424516
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 9.00449049368035E-4
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 2.441813649056712E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.795999295012734E-5
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515095365,
+          "lngE7" : -2245783,
+          "timestampMs" : "1584558656001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515181228,
+          "lngE7" : -2262147,
+          "timestampMs" : "1584558930998",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515219182,
+          "lngE7" : -2225055,
+          "timestampMs" : "1584559054997",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515241402,
+          "lngE7" : -2141531,
+          "timestampMs" : "1584559191995",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515262965,
+          "lngE7" : -2116057,
+          "timestampMs" : "1584559314994",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515288578,
+          "lngE7" : -2192564,
+          "timestampMs" : "1584577659012",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515324235,
+          "lngE7" : -2336019,
+          "timestampMs" : "1584577879000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515391801,
+          "lngE7" : -2435721,
+          "timestampMs" : "1584578102001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515417635,
+          "lngE7" : -2500183,
+          "timestampMs" : "1584578236000",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515408201,
+        "longitudeE7" : -2459790
+      },
+      "endLocation" : {
+        "latitudeE7" : 515269834,
+        "longitudeE7" : -2111452
+      },
+      "duration" : {
+        "startTimestampMs" : "1584632771778",
+        "endTimestampMs" : "1584633994930"
+      },
+      "distance" : 2891,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 59.99270677566528
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 20.203500986099243
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.364569306373596
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.4955153465270996
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.8076807260513306
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.1173679493367672
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.0236838832497597
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.48916442319750786
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.18218362238258123
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.11190116638317704
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.10063904337584972
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.053243018919602036
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.05054007051512599
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.006906317867105827
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.0058212107396685E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515408096,
+          "lngE7" : -2459989
+        }, {
+          "latE7" : 515334548,
+          "lngE7" : -2337307
+        }, {
+          "latE7" : 515242652,
+          "lngE7" : -2032115
+        }, {
+          "latE7" : 515191154,
+          "lngE7" : -1963109
+        }, {
+          "latE7" : 515107727,
+          "lngE7" : -1918924
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515243187,
+          "lngE7" : -2031459,
+          "timestampMs" : "1584633573772",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1584634590999",
+        "location" : {
+          "latitudeE7" : 514998029,
+          "longitudeE7" : -1741135,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515408201,
+        "longitudeE7" : -2459790
+      },
+      "endLocation" : {
+        "latitudeE7" : 515023366,
+        "longitudeE7" : -2267204
+      },
+      "duration" : {
+        "startTimestampMs" : "1584633994930",
+        "endTimestampMs" : "1584638000002"
+      },
+      "distance" : 8067,
+      "activityType" : "CYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 75.14137029647827
+      }, {
+        "activityType" : "STILL",
+        "probability" : 14.380843937397003
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.516089126467705
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.3981038480997086
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.2498066760599613
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.7074730005115271
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.2459062496200204
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.11820351937785745
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.11590386275202036
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06944085471332073
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.04939708160236478
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0035888024285668507
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.002222232797066681
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0012523058103397489
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.981022018706426E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515107727,
+          "lngE7" : -1918924
+        }, {
+          "latE7" : 515100288,
+          "lngE7" : -1877588
+        }, {
+          "latE7" : 514998016,
+          "lngE7" : -1744108
+        }, {
+          "latE7" : 515037193,
+          "lngE7" : -1744744
+        }, {
+          "latE7" : 515078697,
+          "lngE7" : -1915493
+        }, {
+          "latE7" : 515065765,
+          "lngE7" : -2077538
+        }, {
+          "latE7" : 515023841,
+          "lngE7" : -2267449
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 514998016,
+          "lngE7" : -1741135,
+          "timestampMs" : "1584634590999",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515078812,
+          "lngE7" : -1915009,
+          "timestampMs" : "1584637309000",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515039596,
+        "longitudeE7" : -2262041,
+        "placeId" : "ChIJYQe80s8PdkgRMMsSkwk1wvA",
+        "address" : "Shepherd's Bush, London\nW12 8LH\nUK",
+        "name" : "Open Cell",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 82.14688
+      },
+      "duration" : {
+        "startTimestampMs" : "1584638000002",
+        "endTimestampMs" : "1584655493852"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515032700,
+      "centerLngE7" : -2263550,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515034966,
+        "longitudeE7" : -2242238,
+        "placeId" : "ChIJ5ZgE5c8PdkgRQ2ZW98aI1Qc",
+        "locationConfidence" : 5.059703
+      }, {
+        "latitudeE7" : 515032205,
+        "longitudeE7" : -2263366,
+        "placeId" : "ChIJW3WVNM4PdkgRiA2cwTVD1V0",
+        "locationConfidence" : 2.8086214
+      }, {
+        "latitudeE7" : 515030290,
+        "longitudeE7" : -2263620,
+        "placeId" : "ChIJeZ4-DEgPdkgRUPY1NOYwxAs",
+        "locationConfidence" : 1.8483264
+      }, {
+        "latitudeE7" : 515075725,
+        "longitudeE7" : -2212054,
+        "placeId" : "ChIJTZ98odkPdkgRDGbnRTSQUuI",
+        "locationConfidence" : 1.8419704
+      }, {
+        "latitudeE7" : 515029488,
+        "longitudeE7" : -2236844,
+        "placeId" : "ChIJN_zmPQQPdkgRZaMbh7zaW0E",
+        "locationConfidence" : 1.2010127
+      }, {
+        "latitudeE7" : 515040567,
+        "longitudeE7" : -2246746,
+        "placeId" : "ChIJ-Zb38M8PdkgR23SKYSnD-Q0",
+        "locationConfidence" : 0.8730547
+      }, {
+        "latitudeE7" : 515032720,
+        "longitudeE7" : -2225826,
+        "placeId" : "ChIJEaVdW8UPdkgRQBtKG8OqRWI",
+        "locationConfidence" : 0.4715516
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515037382,
+        "longitudeE7" : -2262108
+      },
+      "endLocation" : {
+        "latitudeE7" : 515430927,
+        "longitudeE7" : -2520211
+      },
+      "duration" : {
+        "startTimestampMs" : "1584655493852",
+        "endTimestampMs" : "1584656831900"
+      },
+      "distance" : 4895,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 94.83075141906738
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.1777138113975525
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.1271238327026367
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8978400379419327
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.3560697892680764
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2769575221464038
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.14046505093574524
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.08805713732726872
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.07020764169283211
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.016932743892539293
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.01565939310239628
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0011141780305479188
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 8.507770871801767E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.2702894309768453E-4
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 1.2477852351366892E-4
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515225119,
+          "lngE7" : -2311890,
+          "timestampMs" : "1584656006749",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515324815,
+          "lngE7" : -2388004,
+          "timestampMs" : "1584656311939",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515389087,
+          "lngE7" : -2503047,
+          "timestampMs" : "1584656631402",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515444488,
+        "longitudeE7" : -2515689
+      },
+      "endLocation" : {
+        "latitudeE7" : 515470120,
+        "longitudeE7" : -2508548
+      },
+      "duration" : {
+        "startTimestampMs" : "1584736716838",
+        "endTimestampMs" : "1584736980841"
+      },
+      "distance" : 289,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 43.12300980091095
+      }, {
+        "activityType" : "STILL",
+        "probability" : 27.024346590042114
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.225746393203735
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.810763731598854
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.162422776222229
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.1077630333602428
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.8863550610840321
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.5686287768185139
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.42607137002050877
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.24161720648407936
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.15550784301012754
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.12198054464533925
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.09446434560231864
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.04960001679137349
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0017163913071271963
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515444374,
+          "lngE7" : -2515369
+        }, {
+          "latE7" : 515462265,
+          "lngE7" : -2513306
+        }, {
+          "latE7" : 515469627,
+          "lngE7" : -2507146
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515462204,
+        "longitudeE7" : -2512290,
+        "placeId" : "ChIJITWONLsRdkgRrmdnDrZ1YWA",
+        "address" : "124 Church Rd\nWillesden, London\nNW10 9NG\nUK",
+        "name" : "Morgan Cash & Carry",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 90.201546
+      },
+      "duration" : {
+        "startTimestampMs" : "1584736980841",
+        "endTimestampMs" : "1584737335974"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515464350,
+      "centerLngE7" : -2513050,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515461916,
+        "longitudeE7" : -2511989,
+        "placeId" : "ChIJzyl_NLsRdkgR9Saex87SieQ",
+        "locationConfidence" : 4.1600475
+      }, {
+        "latitudeE7" : 515462204,
+        "longitudeE7" : -2512290,
+        "placeId" : "ChIJ3wJ0wCsRdkgRGCdcdBK1Rcw",
+        "locationConfidence" : 2.7401521
+      }, {
+        "latitudeE7" : 515462204,
+        "longitudeE7" : -2512290,
+        "placeId" : "ChIJxeNDM7sRdkgRAmzC_nwtT1k",
+        "locationConfidence" : 0.964374
+      }, {
+        "latitudeE7" : 515462081,
+        "longitudeE7" : -2512858,
+        "placeId" : "ChIJLR_ESbsRdkgRY057yJkR8B8",
+        "locationConfidence" : 0.8026217
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515444488,
+        "longitudeE7" : -2515689
+      },
+      "endLocation" : {
+        "latitudeE7" : 515220686,
+        "longitudeE7" : -1406912
+      },
+      "duration" : {
+        "startTimestampMs" : "1584737335974",
+        "endTimestampMs" : "1584739650000"
+      },
+      "distance" : 3190,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 43.42935383319855
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.96693229675293
+      }, {
+        "activityType" : "STILL",
+        "probability" : 15.21444022655487
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.733926922082901
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 5.096878483891487
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 2.230784296989441
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.8353017270565033
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.7816363126039505
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.2893294906243682
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.1950981211848557
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.1495606265962124
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.03656357584986836
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.021410286717582494
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0168868966284208
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.001899061317089945
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515458611,
+          "lngE7" : -2517660,
+          "timestampMs" : "1584737335974",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515311621,
+          "lngE7" : -2311464,
+          "timestampMs" : "1584737891000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515230333,
+          "lngE7" : -1946070,
+          "timestampMs" : "1584738547997",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 515198312,
+          "lngE7" : -1870950,
+          "timestampMs" : "1584738657999",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515202169,
+          "lngE7" : -1694029,
+          "timestampMs" : "1584738995004",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 515239039,
+          "lngE7" : -1462320,
+          "timestampMs" : "1584739357006",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515214608,
+          "lngE7" : -1418131,
+          "timestampMs" : "1584739503010",
+          "accuracyMeters" : 51
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515246171,
+        "longitudeE7" : -1381658,
+        "placeId" : "ChIJj-hXfCgbdkgRWewwuunWzdg",
+        "address" : "Bloomsbury, London\nNW1 3AA\nUK",
+        "name" : "Warren Street Station",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 48.346245
+      },
+      "duration" : {
+        "startTimestampMs" : "1584788550000",
+        "endTimestampMs" : "1584789499449"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 515253267,
+      "centerLngE7" : -1385033,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515250834,
+        "longitudeE7" : -1363551,
+        "placeId" : "ChIJ_RZKoCgbdkgRi8sLmI1Ka8Y",
+        "locationConfidence" : 12.564851
+      }, {
+        "latitudeE7" : 515246921,
+        "longitudeE7" : -1415554,
+        "placeId" : "ChIJ230q_icbdkgRnhWJdd4132s",
+        "locationConfidence" : 12.042929
+      }, {
+        "latitudeE7" : 515256201,
+        "longitudeE7" : -1368809,
+        "placeId" : "ChIJCxT9ICYbdkgRB9Egz4uOVaI",
+        "locationConfidence" : 7.2275233
+      }, {
+        "latitudeE7" : 515242087,
+        "longitudeE7" : -1378493,
+        "placeId" : "ChIJ1UFCiygbdkgRGnWTo4ghkmU",
+        "locationConfidence" : 4.0451913
+      }, {
+        "latitudeE7" : 515243677,
+        "longitudeE7" : -1379964,
+        "placeId" : "ChIJ88nbYSgbdkgR969e7eVQgH0",
+        "locationConfidence" : 1.7387382
+      }, {
+        "latitudeE7" : 515243794,
+        "longitudeE7" : -1373688,
+        "placeId" : "ChIJDfIx7SgbdkgRSb0HjI_iO-Y",
+        "locationConfidence" : 1.3283464
+      }, {
+        "latitudeE7" : 515241322,
+        "longitudeE7" : -1376703,
+        "placeId" : "ChIJo8sU8ygbdkgRbBJ88H-cPWk",
+        "locationConfidence" : 1.306368
+      }, {
+        "latitudeE7" : 515256012,
+        "longitudeE7" : -1349996,
+        "placeId" : "ChIJdTDfAiYbdkgRDjpEjH8RSnI",
+        "locationConfidence" : 0.87926364
+      }, {
+        "latitudeE7" : 515243143,
+        "longitudeE7" : -1402293,
+        "placeId" : "ChIJAfgwFigbdkgRhGIk_Vel86Y",
+        "locationConfidence" : 0.6563248
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515250267,
+        "longitudeE7" : -1384716
+      },
+      "endLocation" : {
+        "latitudeE7" : 515221143,
+        "longitudeE7" : -1406298
+      },
+      "duration" : {
+        "startTimestampMs" : "1584789499449",
+        "endTimestampMs" : "1584789886538"
+      },
+      "distance" : 408,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 61.81453466415405
+      }, {
+        "activityType" : "STILL",
+        "probability" : 30.839204788208008
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.9853952825069427
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.3367433100938797
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.0849851183593273
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.29087280854582787
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.220082001760602
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.1204610918648541
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.11094501242041588
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0675730116199702
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.060878240037709475
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0549212156329304
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0067192071583122015
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004783704207511619
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0019050874470849521
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515250740,
+          "lngE7" : -1383080
+        }, {
+          "latE7" : 515248336,
+          "lngE7" : -1381382
+        }, {
+          "latE7" : 515221176,
+          "lngE7" : -1406206
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515225122,
+        "longitudeE7" : -1428166,
+        "placeId" : "ChIJmaVHONYadkgRenRoEUraCx8",
+        "address" : "Carburton St\nFitzrovia, London\nW1W 5EE\nUK",
+        "name" : "Holiday Inn London - Regent's Park",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 50.786205
+      },
+      "duration" : {
+        "startTimestampMs" : "1584789886538",
+        "endTimestampMs" : "1584886762927"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515221400,
+      "centerLngE7" : -1415300,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515218239,
+        "longitudeE7" : -1425585,
+        "placeId" : "ChIJM8MIQNYadkgRNC7hcekjix0",
+        "locationConfidence" : 16.969734
+      }, {
+        "latitudeE7" : 515212453,
+        "longitudeE7" : -1429290,
+        "placeId" : "ChIJRcNUadYadkgRpJDEoj7HIPI",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 6.2705936
+      }, {
+        "latitudeE7" : 515216893,
+        "longitudeE7" : -1409792,
+        "placeId" : "ChIJJyy12CkbdkgR8L6H1TnqzjQ",
+        "locationConfidence" : 5.214243
+      }, {
+        "latitudeE7" : 515217640,
+        "longitudeE7" : -1409600,
+        "placeId" : "ChIJH0Nb3ykbdkgRJX1YP2MlOFI",
+        "locationConfidence" : 2.7623851
+      }, {
+        "latitudeE7" : 515220377,
+        "longitudeE7" : -1404509,
+        "placeId" : "ChIJVX9Y2ikbdkgRgran6KodNLA",
+        "locationConfidence" : 2.0991824
+      }, {
+        "latitudeE7" : 515205866,
+        "longitudeE7" : -1410790,
+        "placeId" : "ChIJfTsVAtYadkgRePHNR7VXrnw",
+        "locationConfidence" : 1.2245694
+      }, {
+        "latitudeE7" : 515207474,
+        "longitudeE7" : -1428135,
+        "placeId" : "ChIJR3h3R40bdkgRQ6jtO76cMnM",
+        "locationConfidence" : 0.8770453
+      }, {
+        "latitudeE7" : 515218256,
+        "longitudeE7" : -1401605,
+        "placeId" : "ChIJmQ2qxCkbdkgR79zisP9bBYw",
+        "locationConfidence" : 0.665565
+      }, {
+        "latitudeE7" : 515225725,
+        "longitudeE7" : -1436400,
+        "placeId" : "ChIJIwejU9YadkgRm5pqX8dVCKs",
+        "locationConfidence" : 0.662986
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515225187,
+        "longitudeE7" : -1403556
+      },
+      "endLocation" : {
+        "latitudeE7" : 515232769,
+        "longitudeE7" : -1385067
+      },
+      "duration" : {
+        "startTimestampMs" : "1584886762927",
+        "endTimestampMs" : "1584887439999"
+      },
+      "distance" : 861,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 40.167221426963806
+      }, {
+        "activityType" : "STILL",
+        "probability" : 27.2458553314209
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 14.58776593208313
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 5.095955729484558
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 4.325131326913834
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.8900733217597008
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.920846849679947
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.7892507836222649
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.9175657294690609
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.5213308148086071
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.2404991304501891
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.13033081777393818
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.10613270569592714
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.05301656201481819
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.009019704884849489
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515225448,
+          "lngE7" : -1402872
+        }, {
+          "latE7" : 515251235,
+          "lngE7" : -1379977
+        }, {
+          "latE7" : 515259323,
+          "lngE7" : -1386622
+        }, {
+          "latE7" : 515250511,
+          "lngE7" : -1382932
+        }, {
+          "latE7" : 515232238,
+          "lngE7" : -1384442
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515261574,
+          "lngE7" : -1388067,
+          "timestampMs" : "1584887126000",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515220552,
+        "longitudeE7" : -1396132,
+        "placeId" : "ChIJdzJhPHgbdkgRIN-GeZsneZk",
+        "address" : "4 Conway St\nFitzrovia, London\nW1T 6BB\nUK",
+        "name" : "Lore of the Land",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 34.29967
+      },
+      "duration" : {
+        "startTimestampMs" : "1584887439999",
+        "endTimestampMs" : "1584889925101"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 515226850,
+      "centerLngE7" : -1396050,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515227705,
+        "longitudeE7" : -1389620,
+        "placeId" : "ChIJiUnsUigbdkgR9vX1PAJtRlQ",
+        "locationConfidence" : 12.662782
+      }, {
+        "latitudeE7" : 515229737,
+        "longitudeE7" : -1400878,
+        "placeId" : "ChIJB7T9MigbdkgRU05xqyaFzFA",
+        "locationConfidence" : 9.070791
+      }, {
+        "latitudeE7" : 515243143,
+        "longitudeE7" : -1402293,
+        "placeId" : "ChIJAfgwFigbdkgRhGIk_Vel86Y",
+        "locationConfidence" : 8.144891
+      }, {
+        "latitudeE7" : 515214598,
+        "longitudeE7" : -1388964,
+        "placeId" : "ChIJ0TGfuikbdkgRK9iKroPjiAw",
+        "locationConfidence" : 7.597195
+      }, {
+        "latitudeE7" : 515220377,
+        "longitudeE7" : -1404509,
+        "placeId" : "ChIJVX9Y2ikbdkgRgran6KodNLA",
+        "locationConfidence" : 7.5004354
+      }, {
+        "latitudeE7" : 515227066,
+        "longitudeE7" : -1383053,
+        "placeId" : "ChIJBferdtk9dkgREMCXp9Ic0m4",
+        "locationConfidence" : 2.728317
+      }, {
+        "latitudeE7" : 515242087,
+        "longitudeE7" : -1378493,
+        "placeId" : "ChIJ1UFCiygbdkgRGnWTo4ghkmU",
+        "locationConfidence" : 1.8052385
+      }, {
+        "latitudeE7" : 515231858,
+        "longitudeE7" : -1386586,
+        "placeId" : "ChIJyXiQUSgbdkgRHpggwMHe6tQ",
+        "locationConfidence" : 1.149007
+      }, {
+        "latitudeE7" : 515236467,
+        "longitudeE7" : -1388211,
+        "placeId" : "ChIJqw-y4LIPdkgRsxP-xipE5VE",
+        "locationConfidence" : 0.9439986
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515220377,
+        "longitudeE7" : -1404509,
+        "placeId" : "ChIJVX9Y2ikbdkgRgran6KodNLA",
+        "address" : "80 Cleveland St\nFitzrovia, London\nW1T 6NE\nUK",
+        "name" : "Passyunk Avenue",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 66.98735
+      },
+      "duration" : {
+        "startTimestampMs" : "1584889925101",
+        "endTimestampMs" : "1584894873029"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515221333,
+      "centerLngE7" : -1407400,
+      "visitConfidence" : 67,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515220552,
+        "longitudeE7" : -1396132,
+        "placeId" : "ChIJdzJhPHgbdkgRIN-GeZsneZk",
+        "locationConfidence" : 10.542549
+      }, {
+        "latitudeE7" : 515218833,
+        "longitudeE7" : -1402592,
+        "placeId" : "ChIJj2azxCkbdkgRzIsyMOwscHU",
+        "locationConfidence" : 4.215955
+      }, {
+        "latitudeE7" : 515223377,
+        "longitudeE7" : -1408305,
+        "placeId" : "ChIJPXxW1ikbdkgRc_s_cY2seX4",
+        "locationConfidence" : 4.0161576
+      }, {
+        "latitudeE7" : 515214598,
+        "longitudeE7" : -1388964,
+        "placeId" : "ChIJ0TGfuikbdkgRK9iKroPjiAw",
+        "locationConfidence" : 1.8568443
+      }, {
+        "latitudeE7" : 515222849,
+        "longitudeE7" : -1407352,
+        "placeId" : "ChIJpbTk1ikbdkgREKtmqa_N9PI",
+        "locationConfidence" : 1.797272
+      }, {
+        "latitudeE7" : 515225122,
+        "longitudeE7" : -1428166,
+        "placeId" : "ChIJmaVHONYadkgRenRoEUraCx8",
+        "locationConfidence" : 1.693024
+      }, {
+        "latitudeE7" : 515220810,
+        "longitudeE7" : -1404950,
+        "placeId" : "ChIJ7z5P2ikbdkgRJbLXb5y1uWs",
+        "locationConfidence" : 1.3697608
+      }, {
+        "latitudeE7" : 515227774,
+        "longitudeE7" : -1413199,
+        "placeId" : "ChIJrXOlLNYadkgRiohqRNt8BSY",
+        "locationConfidence" : 1.3609433
+      }, {
+        "latitudeE7" : 515218256,
+        "longitudeE7" : -1401605,
+        "placeId" : "ChIJmQ2qxCkbdkgR79zisP9bBYw",
+        "locationConfidence" : 0.8482523
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515214598,
+        "longitudeE7" : -1388964,
+        "placeId" : "ChIJ0TGfuikbdkgRK9iKroPjiAw",
+        "address" : "60 Cleveland St\nFitzrovia, London\nW1T 4JZ\nUK",
+        "name" : "BT Tower",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 42.405777
+      },
+      "duration" : {
+        "startTimestampMs" : "1584894873029",
+        "endTimestampMs" : "1584905608001"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515215850,
+      "centerLngE7" : -1394250,
+      "visitConfidence" : 68,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515220552,
+        "longitudeE7" : -1396132,
+        "placeId" : "ChIJdzJhPHgbdkgRIN-GeZsneZk",
+        "locationConfidence" : 30.034912
+      }, {
+        "latitudeE7" : 515220377,
+        "longitudeE7" : -1404509,
+        "placeId" : "ChIJVX9Y2ikbdkgRgran6KodNLA",
+        "locationConfidence" : 6.581874
+      }, {
+        "latitudeE7" : 515217398,
+        "longitudeE7" : -1396998,
+        "placeId" : "ChIJbe5479UadkgRwJzO5FOINgc",
+        "locationConfidence" : 4.8875923
+      }, {
+        "latitudeE7" : 515216743,
+        "longitudeE7" : -1400094,
+        "placeId" : "ChIJvdeZHeQbdkgRIXw0MZTF228",
+        "locationConfidence" : 2.5051284
+      }, {
+        "latitudeE7" : 515221983,
+        "longitudeE7" : -1387710,
+        "placeId" : "ChIJfXdTpSkbdkgRHS4mDouhpgA",
+        "locationConfidence" : 1.8124095
+      }, {
+        "latitudeE7" : 515218833,
+        "longitudeE7" : -1402592,
+        "placeId" : "ChIJj2azxCkbdkgRzIsyMOwscHU",
+        "locationConfidence" : 1.754353
+      }, {
+        "latitudeE7" : 515218256,
+        "longitudeE7" : -1401605,
+        "placeId" : "ChIJmQ2qxCkbdkgR79zisP9bBYw",
+        "locationConfidence" : 1.6917948
+      }, {
+        "latitudeE7" : 515207612,
+        "longitudeE7" : -1400551,
+        "placeId" : "ChIJ-RweG9UadkgRLm3D2r5ofCg",
+        "locationConfidence" : 1.2912197
+      }, {
+        "latitudeE7" : 515221393,
+        "longitudeE7" : -1383031,
+        "placeId" : "ChIJdRIvpikbdkgRmQr7-OPt8KY",
+        "locationConfidence" : 1.2467091
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515424919,
+        "longitudeE7" : -2517954,
+        "placeId" : "ChIJqUPylLsRdkgRcFp9a1fs0s8",
+        "address" : "38A Glynfield Rd\nChurch End & Roundwood, London\nNW10 9LE\nUK",
+        "name" : "38A Glynfield Rd",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 68.51424
+      },
+      "duration" : {
+        "startTimestampMs" : "1584999758687",
+        "endTimestampMs" : "1585060415990"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 515430729,
+      "centerLngE7" : -2520129,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515422372,
+        "longitudeE7" : -2545058,
+        "placeId" : "ChIJzyWEbLwRdkgRxVn-CB40Np4",
+        "locationConfidence" : 11.615802
+      }, {
+        "latitudeE7" : 515435873,
+        "longitudeE7" : -2512045,
+        "placeId" : "ChIJyWdfBbsRdkgRUkKQNYn3hKo",
+        "locationConfidence" : 7.287879
+      }, {
+        "latitudeE7" : 515427670,
+        "longitudeE7" : -2542090,
+        "placeId" : "ChIJCZ3MbrwRdkgRxssEatzaIPQ",
+        "locationConfidence" : 3.509794
+      }, {
+        "latitudeE7" : 515426907,
+        "longitudeE7" : -2519884,
+        "placeId" : "ChIJv3CslrsRdkgRyY_2kfTKMiQ",
+        "locationConfidence" : 1.9529208
+      }, {
+        "latitudeE7" : 515418691,
+        "longitudeE7" : -2546167,
+        "placeId" : "ChIJj3CJPbwRdkgRgBvzj9FwuHs",
+        "locationConfidence" : 1.6573576
+      }, {
+        "latitudeE7" : 515429150,
+        "longitudeE7" : -2544060,
+        "placeId" : "ChIJ3xdgaLwRdkgRcelcgdapUuU",
+        "locationConfidence" : 1.4962622
+      }, {
+        "latitudeE7" : 515411950,
+        "longitudeE7" : -2542343,
+        "placeId" : "ChIJ4yRkHLwRdkgRnY8RDCQV-Zs",
+        "locationConfidence" : 1.0488467
+      }, {
+        "latitudeE7" : 515417421,
+        "longitudeE7" : -2548175,
+        "placeId" : "ChIJxfU0HrwRdkgRYHnZpng8-IE",
+        "locationConfidence" : 0.8204687
+      }, {
+        "latitudeE7" : 515444289,
+        "longitudeE7" : -2533629,
+        "placeId" : "ChIJ3XYnnbwRdkgRlb4XzgkTcYI",
+        "locationConfidence" : 0.7611752
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515430870,
+        "longitudeE7" : -2520211
+      },
+      "endLocation" : {
+        "latitudeE7" : 515490723,
+        "longitudeE7" : -2445636
+      },
+      "duration" : {
+        "startTimestampMs" : "1585060415990",
+        "endTimestampMs" : "1585073346996"
+      },
+      "distance" : 5075,
+      "activityType" : "CYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 61.128515005111694
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.770439505577087
+      }, {
+        "activityType" : "STILL",
+        "probability" : 9.69531387090683
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.021200701594353
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.326735783368349
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.0124278254806995
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.7677166722714901
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.09042901219800115
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.08802621741779149
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.04583491536322981
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04478795453906059
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003320890391478315
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0032066975109046325
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0015712494132458232
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.748562332679285E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515430755,
+          "lngE7" : -2520698
+        }, {
+          "latE7" : 515464210,
+          "lngE7" : -2519279
+        }, {
+          "latE7" : 515490760,
+          "lngE7" : -2522372
+        }, {
+          "latE7" : 515483894,
+          "lngE7" : -2512766
+        }, {
+          "latE7" : 515505943,
+          "lngE7" : -2496502
+        }, {
+          "latE7" : 515522117,
+          "lngE7" : -2487152
+        }, {
+          "latE7" : 515625724,
+          "lngE7" : -2475270
+        }, {
+          "latE7" : 515627899,
+          "lngE7" : -2457648
+        }, {
+          "latE7" : 515613288,
+          "lngE7" : -2419407
+        }, {
+          "latE7" : 515593414,
+          "lngE7" : -2434346
+        }, {
+          "latE7" : 515563125,
+          "lngE7" : -2452017
+        }, {
+          "latE7" : 515550231,
+          "lngE7" : -2443269
+        }, {
+          "latE7" : 515520057,
+          "lngE7" : -2351469
+        }, {
+          "latE7" : 515506439,
+          "lngE7" : -2333071
+        }, {
+          "latE7" : 515516014,
+          "lngE7" : -2330211
+        }, {
+          "latE7" : 515482444,
+          "lngE7" : -2406819
+        }, {
+          "latE7" : 515490951,
+          "lngE7" : -2445625
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515491180,
+          "lngE7" : -2520423,
+          "timestampMs" : "1585071733784",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515505600,
+          "lngE7" : -2496688,
+          "timestampMs" : "1585071888402",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515626068,
+          "lngE7" : -2474743,
+          "timestampMs" : "1585072268003",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515611839,
+          "lngE7" : -2418250,
+          "timestampMs" : "1585072451002",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515563736,
+          "lngE7" : -2451211,
+          "timestampMs" : "1585072597002",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515520973,
+          "lngE7" : -2351052,
+          "timestampMs" : "1585072810001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515516243,
+          "lngE7" : -2333419,
+          "timestampMs" : "1585073062999",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515486001,
+        "longitudeE7" : -2451396,
+        "placeId" : "ChIJjXrfp68RdkgRVnsXE8LOinI",
+        "address" : "473 High Rd\nWillesden, London\nNW10 9SL\nUK",
+        "name" : "B&M Home Store with Garden Centre",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 85.779396
+      },
+      "duration" : {
+        "startTimestampMs" : "1585073346996",
+        "endTimestampMs" : "1585073949006"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515492000,
+      "centerLngE7" : -2458750,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515491520,
+        "longitudeE7" : -2463780,
+        "placeId" : "ChIJLYAZd68RdkgRMrQXsTBDd7g",
+        "locationConfidence" : 6.841718
+      }, {
+        "latitudeE7" : 515492860,
+        "longitudeE7" : -2464590,
+        "placeId" : "ChIJgSu3cK8RdkgR1weowEBcjL8",
+        "locationConfidence" : 2.2605858
+      }, {
+        "latitudeE7" : 515493974,
+        "longitudeE7" : -2466452,
+        "placeId" : "ChIJAzFUeq8RdkgR12jep5GWeAk",
+        "locationConfidence" : 0.8783989
+      }, {
+        "latitudeE7" : 515480674,
+        "longitudeE7" : -2487531,
+        "placeId" : "ChIJ4fjFbKURdkgRmi1ZWX3CsW4",
+        "locationConfidence" : 0.86965
+      }, {
+        "latitudeE7" : 515489650,
+        "longitudeE7" : -2471256,
+        "placeId" : "ChIJ_XoVf68RdkgRc1YNTd8aDhU",
+        "locationConfidence" : 0.55706835
+      }, {
+        "latitudeE7" : 515489963,
+        "longitudeE7" : -2499014,
+        "placeId" : "ChIJWXWWqaURdkgRc8Zpc5b-nBY",
+        "locationConfidence" : 0.45098832
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515493323,
+        "longitudeE7" : -2471940
+      },
+      "endLocation" : {
+        "latitudeE7" : 515430900,
+        "longitudeE7" : -2522282
+      },
+      "duration" : {
+        "startTimestampMs" : "1585073949006",
+        "endTimestampMs" : "1585075142994"
+      },
+      "distance" : 2453,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 59.857726097106934
+      }, {
+        "activityType" : "STILL",
+        "probability" : 17.33696162700653
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 15.450580418109894
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.932711645960808
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.8749158121645451
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.8640647865831852
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.5219663493335247
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.055958592565730214
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.05275083240121603
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.02439505187794566
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.023563193099107593
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0017374537492287345
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0012610666090040468
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.001075557156582363
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.305504378658952E-4
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515438233,
+          "lngE7" : -2532760,
+          "timestampMs" : "1585074082000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515369165,
+          "lngE7" : -2463186,
+          "timestampMs" : "1585074446864",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515669581,
+        "longitudeE7" : -2290290,
+        "placeId" : "ChIJkbk0TvsQdkgR5m-pVuopxsY",
+        "address" : "395 Edgware Rd\nLondon\nNW2 6LN\nUK",
+        "name" : "Wing Yip Superstore Cricklewood",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 90.73143
+      },
+      "duration" : {
+        "startTimestampMs" : "1585158661001",
+        "endTimestampMs" : "1585159267998"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515665700,
+      "centerLngE7" : -2284600,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515669090,
+        "longitudeE7" : -2284390,
+        "placeId" : "ChIJkbk0TvsQdkgRf-Bzbmzb7C0",
+        "locationConfidence" : 4.8531513
+      }, {
+        "latitudeE7" : 515690346,
+        "longitudeE7" : -2287943,
+        "placeId" : "ChIJX1I4m-QQdkgRe-Gd6bn4JGk",
+        "locationConfidence" : 3.106625
+      }, {
+        "latitudeE7" : 515663746,
+        "longitudeE7" : -2290571,
+        "placeId" : "ChIJOwInWPsQdkgR5Gz5dXa7M00",
+        "locationConfidence" : 0.42905423
+      }, {
+        "latitudeE7" : 515656268,
+        "longitudeE7" : -2267086,
+        "placeId" : "ChIJNSxm4voQdkgRmBX2GA2ZPrQ",
+        "locationConfidence" : 0.21089716
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515661228,
+        "longitudeE7" : -2292052
+      },
+      "endLocation" : {
+        "latitudeE7" : 515430490,
+        "longitudeE7" : -2524381
+      },
+      "duration" : {
+        "startTimestampMs" : "1585159267998",
+        "endTimestampMs" : "1585162044002"
+      },
+      "distance" : 5213,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 91.93520545959473
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.215635731816292
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.6405640169978142
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.2721729464828968
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.5518965888768435
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.18723333487287164
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.121243332978338
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.030757885542698205
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.020396093896124512
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.017743407806847245
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.006151841807877645
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 5.31770683664945E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.6056875412905356E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.018446482703439E-4
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 1.0032272257376462E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515660934,
+          "lngE7" : -2291537
+        }, {
+          "latE7" : 515627899,
+          "lngE7" : -2300384
+        }, {
+          "latE7" : 515611381,
+          "lngE7" : -2341527
+        }, {
+          "latE7" : 515593528,
+          "lngE7" : -2336378
+        }, {
+          "latE7" : 515578460,
+          "lngE7" : -2316447
+        }, {
+          "latE7" : 515590591,
+          "lngE7" : -2334454
+        }, {
+          "latE7" : 515603523,
+          "lngE7" : -2361039
+        }, {
+          "latE7" : 515593414,
+          "lngE7" : -2434346
+        }, {
+          "latE7" : 515591735,
+          "lngE7" : -2445099
+        }, {
+          "latE7" : 515554733,
+          "lngE7" : -2524623
+        }, {
+          "latE7" : 515517082,
+          "lngE7" : -2565051
+        }, {
+          "latE7" : 515464172,
+          "lngE7" : -2548798
+        }, {
+          "latE7" : 515447273,
+          "lngE7" : -2526595
+        }, {
+          "latE7" : 515406761,
+          "lngE7" : -2540416
+        }, {
+          "latE7" : 515369758,
+          "lngE7" : -2461933
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515612030,
+          "lngE7" : -2340162,
+          "timestampMs" : "1585159595998",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515576973,
+          "lngE7" : -2315154,
+          "timestampMs" : "1585159728997",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515603676,
+          "lngE7" : -2360247,
+          "timestampMs" : "1585159930000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515591888,
+          "lngE7" : -2445167,
+          "timestampMs" : "1585160052998",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515517120,
+          "lngE7" : -2564945,
+          "timestampMs" : "1585160507994",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515447197,
+          "lngE7" : -2526391,
+          "timestampMs" : "1585160799998",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515424919,
+        "longitudeE7" : -2517954,
+        "placeId" : "ChIJqUPylLsRdkgRcFp9a1fs0s8",
+        "address" : "38A Glynfield Rd\nChurch End & Roundwood, London\nNW10 9LE\nUK",
+        "name" : "38A Glynfield Rd",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 79.85003
+      },
+      "duration" : {
+        "startTimestampMs" : "1585162044002",
+        "endTimestampMs" : "1585225558013"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 515430750,
+      "centerLngE7" : -2522400,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515422372,
+        "longitudeE7" : -2545058,
+        "placeId" : "ChIJzyWEbLwRdkgRxVn-CB40Np4",
+        "locationConfidence" : 5.0602794
+      }, {
+        "latitudeE7" : 515435873,
+        "longitudeE7" : -2512045,
+        "placeId" : "ChIJyWdfBbsRdkgRUkKQNYn3hKo",
+        "locationConfidence" : 4.3960233
+      }, {
+        "latitudeE7" : 515427670,
+        "longitudeE7" : -2542090,
+        "placeId" : "ChIJCZ3MbrwRdkgRxssEatzaIPQ",
+        "locationConfidence" : 3.451362
+      }, {
+        "latitudeE7" : 515429150,
+        "longitudeE7" : -2544060,
+        "placeId" : "ChIJ3xdgaLwRdkgRcelcgdapUuU",
+        "locationConfidence" : 1.9499619
+      }, {
+        "latitudeE7" : 515418691,
+        "longitudeE7" : -2546167,
+        "placeId" : "ChIJj3CJPbwRdkgRgBvzj9FwuHs",
+        "locationConfidence" : 1.2046701
+      }, {
+        "latitudeE7" : 515426907,
+        "longitudeE7" : -2519884,
+        "placeId" : "ChIJv3CslrsRdkgRyY_2kfTKMiQ",
+        "locationConfidence" : 0.79426455
+      }, {
+        "latitudeE7" : 515411950,
+        "longitudeE7" : -2542343,
+        "placeId" : "ChIJ4yRkHLwRdkgRnY8RDCQV-Zs",
+        "locationConfidence" : 0.7452585
+      }, {
+        "latitudeE7" : 515444289,
+        "longitudeE7" : -2533629,
+        "placeId" : "ChIJ3XYnnbwRdkgRlb4XzgkTcYI",
+        "locationConfidence" : 0.62910044
+      }, {
+        "latitudeE7" : 515417421,
+        "longitudeE7" : -2548175,
+        "placeId" : "ChIJxfU0HrwRdkgRYHnZpng8-IE",
+        "locationConfidence" : 0.62861586
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515407793,
+        "longitudeE7" : -2467536
+      },
+      "endLocation" : {
+        "latitudeE7" : 515216805,
+        "longitudeE7" : -2300107
+      },
+      "duration" : {
+        "startTimestampMs" : "1585225558013",
+        "endTimestampMs" : "1585226250999"
+      },
+      "distance" : 2650,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 47.98015058040619
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 34.33183133602142
+      }, {
+        "activityType" : "STILL",
+        "probability" : 5.535304546356201
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.74782532453537
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 3.202028200030327
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.3884564638137817
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.0241593234241009
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.6428706459701061
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.4671724047511816
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.4158284515142441
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.14216449344530702
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.057951646158471704
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04961747326888144
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.013348145876079798
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0012878850611741655
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515409965,
+          "lngE7" : -2467014
+        }, {
+          "latE7" : 515334548,
+          "lngE7" : -2337307
+        }, {
+          "latE7" : 515335655,
+          "lngE7" : -2373405
+        }, {
+          "latE7" : 515275077,
+          "lngE7" : -2354221
+        }, {
+          "latE7" : 515216598,
+          "lngE7" : -2300525
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515335655,
+          "lngE7" : -2373116,
+          "timestampMs" : "1585225861999",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1585226665998",
+        "location" : {
+          "latitudeE7" : 515038598,
+          "longitudeE7" : -2265638,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515407793,
+        "longitudeE7" : -2467536
+      },
+      "endLocation" : {
+        "latitudeE7" : 515038598,
+        "longitudeE7" : -2265638
+      },
+      "duration" : {
+        "startTimestampMs" : "1585226250999",
+        "endTimestampMs" : "1585226665998"
+      },
+      "distance" : 4713,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 81.57503604888916
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.68768447637558
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.608545660972595
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.136955037713051
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.30839254707098
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.672191334888339
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.36859861575067043
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.21985641214996576
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.18472992815077305
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.11900536483153701
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.10032728314399719
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.013139941438566893
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.003553396527422592
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.001665071067691315
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.170355967085925E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515216598,
+          "lngE7" : -2300525
+        }, {
+          "latE7" : 515159416,
+          "lngE7" : -2265913
+        }, {
+          "latE7" : 515038604,
+          "lngE7" : -2265453
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515039596,
+        "longitudeE7" : -2262041,
+        "placeId" : "ChIJYQe80s8PdkgRMMsSkwk1wvA",
+        "address" : "Shepherd's Bush, London\nW12 8LH\nUK",
+        "name" : "Open Cell",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 79.16752
+      },
+      "duration" : {
+        "startTimestampMs" : "1585226665998",
+        "endTimestampMs" : "1585242831001"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515033064,
+      "centerLngE7" : -2265185,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515037994,
+        "longitudeE7" : -2264123,
+        "placeId" : "ChIJx0pVLM4PdkgRvxRqEbq-kK8",
+        "locationConfidence" : 8.166001
+      }, {
+        "latitudeE7" : 515075725,
+        "longitudeE7" : -2212054,
+        "placeId" : "ChIJTZ98odkPdkgRDGbnRTSQUuI",
+        "locationConfidence" : 2.8641071
+      }, {
+        "latitudeE7" : 515032205,
+        "longitudeE7" : -2263366,
+        "placeId" : "ChIJW3WVNM4PdkgRiA2cwTVD1V0",
+        "locationConfidence" : 2.5407238
+      }, {
+        "latitudeE7" : 515023566,
+        "longitudeE7" : -2263700,
+        "placeId" : "ChIJ8VC3Tc4PdkgRDn1JjUBL2Lw",
+        "locationConfidence" : 1.205792
+      }, {
+        "latitudeE7" : 515030290,
+        "longitudeE7" : -2263620,
+        "placeId" : "ChIJeZ4-DEgPdkgRUPY1NOYwxAs",
+        "locationConfidence" : 0.78973347
+      }, {
+        "latitudeE7" : 515050776,
+        "longitudeE7" : -2268011,
+        "placeId" : "ChIJBQaBRdIPdkgRAZUBTPq71bc",
+        "locationConfidence" : 0.7867107
+      }, {
+        "latitudeE7" : 515034966,
+        "longitudeE7" : -2242238,
+        "placeId" : "ChIJ5ZgE5c8PdkgRQ2ZW98aI1Qc",
+        "locationConfidence" : 0.6725173
+      }, {
+        "latitudeE7" : 515029488,
+        "longitudeE7" : -2236844,
+        "placeId" : "ChIJN_zmPQQPdkgRZaMbh7zaW0E",
+        "locationConfidence" : 0.54841024
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515042370,
+        "longitudeE7" : -2242937
+      },
+      "endLocation" : {
+        "latitudeE7" : 515336750,
+        "longitudeE7" : -2412856
+      },
+      "duration" : {
+        "startTimestampMs" : "1585242831001",
+        "endTimestampMs" : "1585243595001"
+      },
+      "distance" : 3540,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 87.18209862709045
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.574916139245033
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.9611125588417053
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.47697813808918
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.3636299408972263
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.266275905072689
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.6422826088964939
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.23010619916021824
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.15132988337427378
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.07086569094099104
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0705833313986659
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.004870170232607052
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003211213697795756
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0011923350939468946
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.465066806209506E-4
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515119482,
+          "lngE7" : -2247989,
+          "timestampMs" : "1585242989001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515162284,
+          "lngE7" : -2266911,
+          "timestampMs" : "1585243115008",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515424919,
+        "longitudeE7" : -2517954,
+        "placeId" : "ChIJqUPylLsRdkgRcFp9a1fs0s8",
+        "address" : "38A Glynfield Rd\nChurch End & Roundwood, London\nNW10 9LE\nUK",
+        "name" : "38A Glynfield Rd",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 86.96631
+      },
+      "duration" : {
+        "startTimestampMs" : "1585405619988",
+        "endTimestampMs" : "1585412946005"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 515430980,
+      "centerLngE7" : -2520660,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515435873,
+        "longitudeE7" : -2512045,
+        "placeId" : "ChIJyWdfBbsRdkgRUkKQNYn3hKo",
+        "locationConfidence" : 5.150953
+      }, {
+        "latitudeE7" : 515422372,
+        "longitudeE7" : -2545058,
+        "placeId" : "ChIJzyWEbLwRdkgRxVn-CB40Np4",
+        "locationConfidence" : 2.1742058
+      }, {
+        "latitudeE7" : 515427670,
+        "longitudeE7" : -2542090,
+        "placeId" : "ChIJCZ3MbrwRdkgRxssEatzaIPQ",
+        "locationConfidence" : 1.77872
+      }, {
+        "latitudeE7" : 515444289,
+        "longitudeE7" : -2533629,
+        "placeId" : "ChIJ3XYnnbwRdkgRlb4XzgkTcYI",
+        "locationConfidence" : 1.0617172
+      }, {
+        "latitudeE7" : 515429150,
+        "longitudeE7" : -2544060,
+        "placeId" : "ChIJ3xdgaLwRdkgRcelcgdapUuU",
+        "locationConfidence" : 0.6525526
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515431051,
+        "longitudeE7" : -2522748
+      },
+      "endLocation" : {
+        "latitudeE7" : 515223493,
+        "longitudeE7" : -1408257
+      },
+      "duration" : {
+        "startTimestampMs" : "1585412946005",
+        "endTimestampMs" : "1585414788001"
+      },
+      "distance" : 8530,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 95.07365822792053
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.0000092685222626
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9161827154457569
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.6674229167401791
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.6385914050042629
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.21277007181197405
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.19777074921876192
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.13272104552015662
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.06811429630033672
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.059353787219151855
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.02327979455003515
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0070032641815487295
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.002697448871913366
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.551670261003892E-4
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 6.763382316421485E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515431480,
+          "lngE7" : -2521209
+        }, {
+          "latE7" : 515426712,
+          "lngE7" : -2486263
+        }, {
+          "latE7" : 515402793,
+          "lngE7" : -2452348
+        }, {
+          "latE7" : 515366859,
+          "lngE7" : -2401928
+        }, {
+          "latE7" : 515346717,
+          "lngE7" : -2366033
+        }, {
+          "latE7" : 515334739,
+          "lngE7" : -2338390
+        }, {
+          "latE7" : 515301170,
+          "lngE7" : -2249014
+        }, {
+          "latE7" : 515261344,
+          "lngE7" : -2052471
+        }, {
+          "latE7" : 515236816,
+          "lngE7" : -1991291
+        }, {
+          "latE7" : 515223312,
+          "lngE7" : -1937198
+        }, {
+          "latE7" : 515200691,
+          "lngE7" : -1705045
+        }, {
+          "latE7" : 515200729,
+          "lngE7" : -1703276
+        }, {
+          "latE7" : 515223045,
+          "lngE7" : -1409195
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515403061,
+          "lngE7" : -2452049,
+          "timestampMs" : "1585413087003",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515347252,
+          "lngE7" : -2365368,
+          "timestampMs" : "1585413273001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515301247,
+          "lngE7" : -2249152,
+          "timestampMs" : "1585413451002",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515236168,
+          "lngE7" : -1991552,
+          "timestampMs" : "1585413839002",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515201988,
+          "lngE7" : -1705059,
+          "timestampMs" : "1585414217954",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515212453,
+        "longitudeE7" : -1429290,
+        "placeId" : "ChIJRcNUadYadkgRpJDEoj7HIPI",
+        "address" : "160 Great Portland St\nFitzrovia, London\nW1W 5QA\nUK",
+        "name" : "160 Great Portland St",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 44.85017
+      },
+      "duration" : {
+        "startTimestampMs" : "1585414788001",
+        "endTimestampMs" : "1585498990003"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515223493,
+      "centerLngE7" : -1408257,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515223377,
+        "longitudeE7" : -1408305,
+        "placeId" : "ChIJPXxW1ikbdkgRc_s_cY2seX4",
+        "locationConfidence" : 19.032667
+      }, {
+        "latitudeE7" : 515216893,
+        "longitudeE7" : -1409792,
+        "placeId" : "ChIJJyy12CkbdkgR8L6H1TnqzjQ",
+        "locationConfidence" : 7.5637636
+      }, {
+        "latitudeE7" : 515220377,
+        "longitudeE7" : -1404509,
+        "placeId" : "ChIJVX9Y2ikbdkgRgran6KodNLA",
+        "locationConfidence" : 7.2250533
+      }, {
+        "latitudeE7" : 515215005,
+        "longitudeE7" : -1408131,
+        "placeId" : "ChIJ6SAX3ykbdkgRZ-k4ccSWg2o",
+        "locationConfidence" : 2.9948425
+      }, {
+        "latitudeE7" : 515224593,
+        "longitudeE7" : -1409356,
+        "placeId" : "ChIJBSyL_4obdkgRcnUj1UXwZi8",
+        "locationConfidence" : 2.7206082
+      }, {
+        "latitudeE7" : 515220552,
+        "longitudeE7" : -1396132,
+        "placeId" : "ChIJdzJhPHgbdkgRIN-GeZsneZk",
+        "locationConfidence" : 2.3432944
+      }, {
+        "latitudeE7" : 515220810,
+        "longitudeE7" : -1404950,
+        "placeId" : "ChIJ7z5P2ikbdkgRJbLXb5y1uWs",
+        "locationConfidence" : 2.2225544
+      }, {
+        "latitudeE7" : 515222849,
+        "longitudeE7" : -1407352,
+        "placeId" : "ChIJpbTk1ikbdkgREKtmqa_N9PI",
+        "locationConfidence" : 1.9088303
+      }, {
+        "latitudeE7" : 515214598,
+        "longitudeE7" : -1388964,
+        "placeId" : "ChIJ0TGfuikbdkgRK9iKroPjiAw",
+        "locationConfidence" : 1.5584311
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515201500,
+        "longitudeE7" : -1340800,
+        "placeId" : "ChIJwxzyMNUEdkgRX_ZmJQsYKK8",
+        "address" : "64 Tottenham Court Rd\nBloomsbury, London\nW1T 2ET\nUK",
+        "name" : "Le Pain Quotidien",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 21.832413
+      },
+      "duration" : {
+        "startTimestampMs" : "1585498990003",
+        "endTimestampMs" : "1585511955002"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 515198600,
+      "centerLngE7" : -1339200,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515197206,
+        "longitudeE7" : -1342573,
+        "placeId" : "ChIJ2wUgGywbdkgRkaIDnKIP4Bo",
+        "locationConfidence" : 20.219398
+      }, {
+        "latitudeE7" : 515197680,
+        "longitudeE7" : -1343420,
+        "placeId" : "ChIJURxKGywbdkgR499gC72Tvz0",
+        "locationConfidence" : 14.151641
+      }, {
+        "latitudeE7" : 515195421,
+        "longitudeE7" : -1349266,
+        "placeId" : "ChIJh30rBiwbdkgRwBAZLWK6958",
+        "locationConfidence" : 7.9866757
+      }, {
+        "latitudeE7" : 515199134,
+        "longitudeE7" : -1340749,
+        "placeId" : "ChIJt9eK5isbdkgRqNJrpS8u16s",
+        "locationConfidence" : 7.601981
+      }, {
+        "latitudeE7" : 515198846,
+        "longitudeE7" : -1333245,
+        "placeId" : "ChIJfUHYIywbdkgR_WcDtVUTW6k",
+        "locationConfidence" : 4.2773147
+      }, {
+        "latitudeE7" : 515204368,
+        "longitudeE7" : -1344817,
+        "placeId" : "ChIJwQXYJSwbdkgRL54-MSQbsJw",
+        "locationConfidence" : 3.6607137
+      }, {
+        "latitudeE7" : 515192326,
+        "longitudeE7" : -1331160,
+        "placeId" : "ChIJz18rOiwbdkgRQcRzjVs6oEE",
+        "locationConfidence" : 2.6455104
+      }, {
+        "latitudeE7" : 515198548,
+        "longitudeE7" : -1347719,
+        "placeId" : "ChIJo3Bu3isbdkgRNiWw-JF2B44",
+        "locationConfidence" : 2.3258367
+      }, {
+        "latitudeE7" : 515196527,
+        "longitudeE7" : -1346626,
+        "placeId" : "ChIJNSbGBSwbdkgRzk7rIEt3MV8",
+        "locationConfidence" : 1.5060613
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515209813,
+        "longitudeE7" : -1389674
+      },
+      "endLocation" : {
+        "latitudeE7" : 515211401,
+        "longitudeE7" : -1624731
+      },
+      "duration" : {
+        "startTimestampMs" : "1585511955002",
+        "endTimestampMs" : "1585525520001"
+      },
+      "distance" : 2216,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 39.34265971183777
+      }, {
+        "activityType" : "STILL",
+        "probability" : 27.920585870742798
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 14.62312936782837
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.796290755271912
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.7203254625201225
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9411989711225033
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.4983161576092243
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.36420226097106934
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.347074749879539
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.1757806516252458
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.08967347675934434
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.07726269541308284
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0767579476814717
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.025604345137253404
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0011356449249433354
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 515188959,
+          "lngE7" : -1370506,
+          "timestampMs" : "1585512161998",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515207999,
+          "lngE7" : -1388630,
+          "timestampMs" : "1585512331997",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515221937,
+          "lngE7" : -1412869,
+          "timestampMs" : "1585512671998",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 515211401,
+          "lngE7" : -1624731,
+          "timestampMs" : "1585523851001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515200761,
+          "lngE7" : -1823516,
+          "timestampMs" : "1585524094000",
+          "accuracyMeters" : 50
+        }, {
+          "latE7" : 515302508,
+          "lngE7" : -2278796,
+          "timestampMs" : "1585524716001",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 515387794,
+          "lngE7" : -2431494,
+          "timestampMs" : "1585525037001",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515424919,
+        "longitudeE7" : -2517954,
+        "placeId" : "ChIJqUPylLsRdkgRcFp9a1fs0s8",
+        "address" : "38A Glynfield Rd\nChurch End & Roundwood, London\nNW10 9LE\nUK",
+        "name" : "38A Glynfield Rd",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 92.0298
+      },
+      "duration" : {
+        "startTimestampMs" : "1585582077384",
+        "endTimestampMs" : "1585676345000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 515430800,
+      "centerLngE7" : -2520325,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515435873,
+        "longitudeE7" : -2512045,
+        "placeId" : "ChIJyWdfBbsRdkgRUkKQNYn3hKo",
+        "locationConfidence" : 2.3600867
+      }, {
+        "latitudeE7" : 515422372,
+        "longitudeE7" : -2545058,
+        "placeId" : "ChIJzyWEbLwRdkgRxVn-CB40Np4",
+        "locationConfidence" : 1.4166007
+      }, {
+        "latitudeE7" : 515427670,
+        "longitudeE7" : -2542090,
+        "placeId" : "ChIJCZ3MbrwRdkgRxssEatzaIPQ",
+        "locationConfidence" : 1.2807341
+      }, {
+        "latitudeE7" : 515429150,
+        "longitudeE7" : -2544060,
+        "placeId" : "ChIJ3xdgaLwRdkgRcelcgdapUuU",
+        "locationConfidence" : 0.6175973
+      }, {
+        "latitudeE7" : 515444289,
+        "longitudeE7" : -2533629,
+        "placeId" : "ChIJ3XYnnbwRdkgRlb4XzgkTcYI",
+        "locationConfidence" : 0.48339304
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515407334,
+        "longitudeE7" : -2522546
+      },
+      "endLocation" : {
+        "latitudeE7" : 515371303,
+        "longitudeE7" : -2463568
+      },
+      "duration" : {
+        "startTimestampMs" : "1585676345000",
+        "endTimestampMs" : "1585676556000"
+      },
+      "distance" : 571,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 49.08348321914673
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 27.999061346054077
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.453582435846329
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.852187424898148
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 5.093564838171005
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.66627536714077
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.26220930740237236
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.22765230387449265
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.15991812106221914
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.09838307742029428
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.04255094681866467
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.03727035073097795
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.013614939234685153
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.009046431659953669
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0012012672414130066
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515407829,
+          "lngE7" : -2522900
+        }, {
+          "latE7" : 515375938,
+          "lngE7" : -2474534
+        }, {
+          "latE7" : 515371093,
+          "lngE7" : -2463929
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1585676556000",
+        "location" : {
+          "latitudeE7" : 515371303,
+          "longitudeE7" : -2463568,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515368624,
+        "longitudeE7" : -2466969,
+        "placeId" : "ChIJwROL8bcRdkgRbb7k9yoErrc",
+        "address" : "Unit 2, Harlesden Plaza\nTavistock Rd\nHarlesden, London\nNW10 4NG\nUK",
+        "name" : "Tesco Metro",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 68.903534
+      },
+      "duration" : {
+        "startTimestampMs" : "1585676556000",
+        "endTimestampMs" : "1585677937980"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 515371600,
+      "centerLngE7" : -2470100,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515370765,
+        "longitudeE7" : -2475593,
+        "placeId" : "ChIJ0emXHbgRdkgRxJvNLo2XBLc",
+        "locationConfidence" : 13.923896
+      }, {
+        "latitudeE7" : 515367399,
+        "longitudeE7" : -2471986,
+        "placeId" : "ChIJ1-mXHbgRdkgRmGD0jLk-HvY",
+        "locationConfidence" : 6.0670805
+      }, {
+        "latitudeE7" : 515368512,
+        "longitudeE7" : -2481955,
+        "placeId" : "ChIJb6iVFrgRdkgRK2DHhk0TAgc",
+        "locationConfidence" : 3.8820777
+      }, {
+        "latitudeE7" : 515367086,
+        "longitudeE7" : -2470842,
+        "placeId" : "ChIJoa75PLgRdkgRx8sPQ5LIbio",
+        "locationConfidence" : 3.3374221
+      }, {
+        "latitudeE7" : 515362990,
+        "longitudeE7" : -2476709,
+        "placeId" : "ChIJ0-EdcAkRdkgRpgn-lnUvGhA",
+        "locationConfidence" : 1.3619864
+      }, {
+        "latitudeE7" : 515370218,
+        "longitudeE7" : -2470233,
+        "placeId" : "ChIJSdo89bcRdkgRmioBimbkbYU",
+        "locationConfidence" : 1.0804136
+      }, {
+        "latitudeE7" : 515360157,
+        "longitudeE7" : -2464162,
+        "placeId" : "ChIJXYpY-7cRdkgRyYCxXBU2fY8",
+        "locationConfidence" : 0.6405907
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 515371985,
+        "longitudeE7" : -2476751
+      },
+      "endLocation" : {
+        "latitudeE7" : 515431102,
+        "longitudeE7" : -2520649
+      },
+      "duration" : {
+        "startTimestampMs" : "1585677937980",
+        "endTimestampMs" : "1585678204000"
+      },
+      "distance" : 753,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 41.565096378326416
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.67411017417908
+      }, {
+        "activityType" : "STILL",
+        "probability" : 10.614681988954544
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.982685670256615
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.458576112985611
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.219019666314125
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.25160685181617737
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.09116504807025194
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.06509156664833426
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04008843679912388
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.026259219157509506
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.004298817657399923
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0037844911275897175
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0028910060791531578
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.455888978962321E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 515372314,
+          "lngE7" : -2477045
+        }, {
+          "latE7" : 515416793,
+          "lngE7" : -2483904
+        }, {
+          "latE7" : 515431022,
+          "lngE7" : -2520901
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 515424919,
+        "longitudeE7" : -2517954,
+        "placeId" : "ChIJqUPylLsRdkgRcFp9a1fs0s8",
+        "address" : "38A Glynfield Rd\nChurch End & Roundwood, London\nNW10 9LE\nUK",
+        "name" : "38A Glynfield Rd",
+        "sourceInfo" : {
+          "deviceTag" : 1646982907
+        },
+        "locationConfidence" : 86.51898
+      },
+      "duration" : {
+        "startTimestampMs" : "1585678204000",
+        "endTimestampMs" : "1585683836897"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 515431000,
+      "centerLngE7" : -2520450,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 515435873,
+        "longitudeE7" : -2512045,
+        "placeId" : "ChIJyWdfBbsRdkgRUkKQNYn3hKo",
+        "locationConfidence" : 4.628851
+      }, {
+        "latitudeE7" : 515422372,
+        "longitudeE7" : -2545058,
+        "placeId" : "ChIJzyWEbLwRdkgRxVn-CB40Np4",
+        "locationConfidence" : 2.1555028
+      }, {
+        "latitudeE7" : 515427670,
+        "longitudeE7" : -2542090,
+        "placeId" : "ChIJCZ3MbrwRdkgRxssEatzaIPQ",
+        "locationConfidence" : 1.7590185
+      }, {
+        "latitudeE7" : 515444289,
+        "longitudeE7" : -2533629,
+        "placeId" : "ChIJ3XYnnbwRdkgRlb4XzgkTcYI",
+        "locationConfidence" : 1.1621054
+      }, {
+        "latitudeE7" : 515429150,
+        "longitudeE7" : -2544060,
+        "placeId" : "ChIJ3xdgaLwRdkgRcelcgdapUuU",
+        "locationConfidence" : 0.8853399
+      }, {
+        "latitudeE7" : 515426907,
+        "longitudeE7" : -2519884,
+        "placeId" : "ChIJv3CslrsRdkgRyY_2kfTKMiQ",
+        "locationConfidence" : 0.8007042
+      }, {
+        "latitudeE7" : 515411950,
+        "longitudeE7" : -2542343,
+        "placeId" : "ChIJ4yRkHLwRdkgRnY8RDCQV-Zs",
+        "locationConfidence" : 0.5115554
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
